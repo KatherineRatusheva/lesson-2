@@ -1,0 +1,135 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: black;
+    width: 1400px;
+    height: 595px;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+header {
+    width: 1400px;
+    height: 250px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    width: 409px;
+    height: 38px;
+    line-height: 42px;
+    color: #212121;
+    padding-top: 100px;
+    padding-left: 496px;
+    margin: 0px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+    width: 189px;
+    height: 29px;
+    padding-left: 81px;
+    padding-top: 50px;
+    margin: 0px;
+}
+
+.h-center {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #333333;
+    width: 189px;
+    height: 29px;
+    padding-left: 81px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+p {
+    line-height: 19px;
+    text-align: center;
+    width: 350px;
+    height: 60px;
+    padding-left: 0px;
+    padding-top: 16px;
+    margin: 0px;
+}
+
+.text-header {
+    line-height: 19px;
+    color: #86878B;
+    width: 363px;
+    height: 19px;
+    padding-left: 519px; padding-top: 30px;
+}
+
+hr {
+    width: 64px;
+    height: 2px;
+    margin-left: 668px; margin-top: 25px;
+    border: 1px solid #E72424;
+    background-color: #E72424;
+}
+
+main {
+    height: 345px;
+    width: 1400px;
+    display: inline-block;
+}
+
+.div-lamp {
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    padding-left: 143px;
+    padding-top: 31px;
+}
+
+.img-lamp {
+    width: 23px;
+    height: 30px;
+    padding-top: 20px;
+
+}
+
+.circle {
+    width: 70px;
+	height: 70px;
+    border-radius: 50%;
+    border: 1px solid #E72424;
+    margin: auto;
+    text-align: center;
+}
+
+
+.div-keypad {
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    padding-top: 31px;
+    padding-right: 32px;
+    padding-left: 32px;
+}
+
+.img-keypad {
+    width: 37px;
+    height: 26px;
+    padding-top: 22px;
+}
+
+.div-lightning {
+    display: inline-block;
+    width: 350px;
+    height: 225px;
+    padding-top: 31px;
+}
+
+.img-lightning {
+    width: 21px;
+    height: 33px;
+    padding-top: 19px;
+}
